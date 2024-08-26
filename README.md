@@ -87,3 +87,4 @@ We welcome contributions to improve the website. Please follow these steps:
 ## Contact
 
 For inquiries, please contact us at: [https://github.com/ksandile] [ksandile127@gmail.com].
+                                   : [Lutho9905 (Lutho Mtyelwa) (github.com)] [LuthoMtyelwa@capaciti.org.za]
